@@ -6,19 +6,19 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
 	title: {
-		default: "musex.my.id",
-		template: "%s | musex.my.id",
+		default: "Under maintenance!",
+		template: "%s | maintenance",
 	},
-	description: "Personal web",
+	description: "Maintenance",
 	openGraph: {
-		title: "musex.my.id",
+		title: "maintenance",
 		description:
-			"Personal web",
-		url: "https://musex.my.id",
-		siteName: "musex.my.id",
+			"Maintenance",
+		url: "https://info.proxsis.com",
+		siteName: "info.proxsis.com",
 		images: [
 			{
-				url: "https://musex.my.id/og.png",
+				url: "https://info.proxsis.com/og.png",
 				width: 1920,
 				height: 1080,
 			},
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
 		},
 	},
 	twitter: {
-		title: "Chronark",
+		title: "Maintenance",
 		card: "summary_large_image",
 	},
 	icons: {
